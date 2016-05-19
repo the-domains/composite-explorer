@@ -1,0 +1,14 @@
+layout_spectrum: 0.8652029004879296
+typography_spectrum: 0.4153111472260207
+color:
+  brandStrength: 0.06929790345020592
+  lightness: 0.41587155940942466
+  saturation: 0.02961911098100245
+  rhythmicContrast: 0.11451375694014132
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+name: Composite Explorer
