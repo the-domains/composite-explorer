@@ -6,9 +6,13 @@ color:
   saturation: 0.02961911098100245
   rhythmicContrast: 0.11451375694014132
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
 name: Composite Explorer
+author:
+  name: Anna Madra
+  email: annakopov@gmail.com
+  url: ''
