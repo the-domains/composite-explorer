@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Composite Explorer]]></title>
+        <description><![CDATA[Composite Explorer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 14:56:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Divide and understand]]></title>
+            <description><![CDATA[<article><h1>Divide and understand</h1><p>So, you’ve managed to open your n-GB data file with attenuation coefficients of your material. And what you see are shades of gray, and far more than fifty. I would risk saying there are 255 of them or even 65,535, with the latter case more probable with 16-bit capture on CCD cameras. Is this where you are? If not, please do relate to the X-ray µ-tomo primer soon available on Composite Explorer. If you are working at the micro-scale and in material science, a probable image you'll obtain is</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43d0432c659eee4b76b31b689d83f397ec69f104.jpg"></article>]]></description>
+            <link>undefineddivide-and-understand/index.html</link>
+            <guid isPermaLink="false">09819ffd-cfc7-48e0-ac9f-94c3189e1090</guid>
+            <pubDate>Thu, 19 May 2016 14:25:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
