@@ -4,7 +4,7 @@
         <description><![CDATA[Composite Explorer]]></description>
         <link>https://thegrid.ai/composite-explorer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 07:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 07:32:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/composite-explorer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Divide and understand]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/composite-explorer/divide-and-understand/index.html</link>
             <guid isPermaLink="false">09819ffd-cfc7-48e0-ac9f-94c3189e1090</guid>
             <pubDate>Mon, 23 May 2016 07:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tidying up composites]]></title>
-            <description><![CDATA[<article><h1>Tidying up composites</h1><p>"What a mess!" This was the first reaction of one renowned researcher to the X-ray µ-tomography reconstruction of a composite reinforced with short natural fibers. He followed with "It should be put in order" and then wandered in the distance. It was indeed quite difficult to make out anything out of the picture as you can see here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de21ca1a3108c26f64c6149af82757e4488612c3.png"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=EbLI7EB88j8</link>
-            <guid isPermaLink="false">f5d9b4f7-2c38-4b70-9d33-fbb71cfc49d3</guid>
-            <pubDate>Thu, 19 May 2016 14:38:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
