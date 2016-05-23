@@ -4,8 +4,15 @@
         <description><![CDATA[Composite Explorer]]></description>
         <link>https://thegrid.ai/composite-explorer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 06:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 07:29:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/composite-explorer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Divide and understand]]></title>
+            <description><![CDATA[<article><h1>Divide and understand</h1><p>So, you’ve managed to open your n-GB data file with attenuation coefficients of your material. And what you see are shades of gray, and far more than fifty. I would risk saying there are 255 of them or even 65,535, with the latter case more probable with 16-bit capture on CCD cameras. Is this where you are? If not, please do relate to the X-ray µ-tomo primer soon available on Composite Explorer. If you are working at the micro-scale and in material science, a probable image you'll obtain is</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43d0432c659eee4b76b31b689d83f397ec69f104.jpg"></article>]]></description>
+            <link>https://thegrid.ai/composite-explorer/divide-and-understand/index.html</link>
+            <guid isPermaLink="false">09819ffd-cfc7-48e0-ac9f-94c3189e1090</guid>
+            <pubDate>Mon, 23 May 2016 07:29:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tidying up composites]]></title>
             <description><![CDATA[<article><h1>Tidying up composites</h1><p>"What a mess!" This was the first reaction of one renowned researcher to the X-ray µ-tomography reconstruction of a composite reinforced with short natural fibers. He followed with "It should be put in order" and then wandered in the distance. It was indeed quite difficult to make out anything out of the picture as you can see here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de21ca1a3108c26f64c6149af82757e4488612c3.png"></article>]]></description>
