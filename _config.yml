@@ -1,16 +1,16 @@
-layout_spectrum: 0.5835138589609414
+layout_spectrum: 0.7111775120720267
 typography_spectrum: 0.9005883666686714
 color:
-  brandStrength: 0.5048932409845293
-  lightness: 0.28487666929140687
-  saturation: 0.27888698410242796
-  rhythmicContrast: 0.37290280289016664
+  brandStrength: 0.11866390006616712
+  lightness: 0.4292900210712105
+  saturation: 0.8701374193187803
+  rhythmicContrast: 0.6060973308049142
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Composite Explorer
 author:
   name: Anna Madra
